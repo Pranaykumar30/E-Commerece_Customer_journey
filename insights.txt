@@ -1,0 +1,10 @@
+
+**Customer Journey Analysis Insights**:
+- **Bounce Rate**: 100.00% of sessions involve only one page, indicating potential issues with landing page engagement.
+- **Session Duration**: Average session lasts 0.00 minutes, suggesting moderate user engagement.
+- **Conversion Rate**: 10.14% of sessions result in a purchase, highlighting room for funnel optimization.
+- **Funnel Drop-off**: Significant drop from product to cart (only 37.02% proceed), suggesting issues with product page UX or pricing.
+**Recommendations**:
+- Optimize product page load times and clarity of calls-to-action.
+- A/B test pricing strategies to reduce cart abandonment.
+- Enhance homepage content to lower bounce rate.
